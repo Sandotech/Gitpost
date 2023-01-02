@@ -21,6 +21,7 @@ body{
     margin:0;
     padding:0;
     list-style:none;
+    color: #F1F1F1;
 }
 .super-cabecera nav ul li{
     position:relative;
