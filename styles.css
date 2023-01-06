@@ -86,3 +86,21 @@ body{
 .first-phagrah-div h1{
     text-align: center;
 }
+
+footer{
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+footer div{
+    background-color: rgb(160, 26, 26);
+    /* border-radius: 8px; */
+    width: 4000px;
+    padding: 10px;
+    /* padding-top: 20px; */
+    font-size: 18px;
+    font-style: initial;
+}
